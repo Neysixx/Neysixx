@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student and IT enthusiast<br>French<br>open for discussion
+Student and IT enthusiast 👨‍🎓<br>French 🇫🇷<br>open for discussion 🤝
 
 
 ## 🌐 Socials:
