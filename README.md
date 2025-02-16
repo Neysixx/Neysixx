@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋! I'm a French IT Student 👨‍🎓</h1>
-
 ###
 
 <p align="left">WEB Stack</p>
