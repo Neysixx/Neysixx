@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Kyllian Senrens</h1>
-<h3 align="center">🇫🇷 Junior Full Stack Developer | Passionate about AI</h3>
+<h1 align="center">Hi there 👋, I'm Kyllian</h1>
+<h3 align="center">🇫🇷 Full Stack Developer | Passionate about AI</h3>
 
 ---
 
