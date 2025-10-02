@@ -6,7 +6,6 @@
 ## 💫 About Me
 - 🧠 Constantly learning and experimenting with new techs  
 - 💡 Currently exploring AI integration into full stack applications  
-- 🌐 Portfolio & more: [kylliansenrens.fr](https://kylliansenrens.fr)  
 - 🎯 Always open to new challenges and collaborations  
 
 ---
