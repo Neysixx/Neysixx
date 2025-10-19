@@ -33,3 +33,18 @@
 ---
 
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/Neysixx)
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-10-19T09:24:22.805Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xA3e5c983C623cB7Dc44B1b7A1036161cb70cFb72"
+    },
+    {
+      "chain": "solana",
+      "address": "86SM6UrTvCwARyUdCGGMPDyqsavZEunSQm97A9KbHvvE"
+    }
+  ]
+}
+WALLET-LINKING-END -->
