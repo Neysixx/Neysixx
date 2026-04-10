@@ -1,36 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Kyllian</h1>
-<h3 align="center">🇫🇷 Full Stack Developer | Passionate about AI</h3>
+<div align="center">
+  <img src="https://i.giphy.com/pVGsAWjzvXcZW4ZBTE.webp" alt="Bottom Line" width="100%" />
+</div>
 
----
+<h1>Hi there, I'm Kyllian</h1>
+<h3>Full Stack Developer | AI & Web3 Enthusiast</h3>
 
-## 💫 About Me
-- 🧠 Constantly learning and experimenting with new techs  
-- 💡 Currently exploring AI integration into full stack applications  
-- 🎯 Always open to new challenges and collaborations  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kylliansenrens" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ks_nsx" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="mailto:kylliansenrens3004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/kylliansenrens/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="https://x.com/ks_nsx" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="mailto:kylliansenrens3004+github@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="https://www.ksnx.dev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a>
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Neysixx&theme=darcula&hide_border=false" />
-</p>
-
----
 
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/Neysixx)
 <!-- WALLET-LINKING-BEGIN
@@ -48,15 +29,3 @@
   ]
 }
 WALLET-LINKING-END -->
-
-<!-- X-LINKING-BEGIN
-{
-  "lastUpdated": "2025-10-25T09:20:49.955Z",
-  "xAccount": {
-    "xUsername": "ks_nsx",
-    "xUserId": "1851003153950404608",
-    "linkedAt": "2025-10-25T09:20:50.913Z",
-    "linkingProof": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnaXRodWJVc2VybmFtZSI6Ik5leXNpeHgiLCJ4VXNlcklkIjoiMTg1MTAwMzE1Mzk1MDQwNDYwOCIsInhVc2VybmFtZSI6ImtzX25zeCIsImxpbmtlZEF0IjoiMjAyNS0xMC0yNVQwOToyMDo1MC45MTNaIiwiaWF0IjoxNzYxMzg0MDUwLCJpc3MiOiJzZW5kby1hdXRoLXdvcmtlciJ9.dJBC6eAg6yvBam89h_2X82fAEhYtgeQaza8o9yMFj7c"
-  }
-}
-X-LINKING-END -->
